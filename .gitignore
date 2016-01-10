@@ -10,9 +10,7 @@ atlassian*
 /.gitattributes
 /.vagrant
 
-/public/var
-
-/public/vendor
+/public/var/*
 
 !/public/composer.json
 !/public/composer.lock
