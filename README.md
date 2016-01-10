@@ -22,7 +22,6 @@ Once the vagrant box is up and provisioned, you can access it via http://192.168
 Backend is accessed via http://192.168.50.50/admin with the following credentials
 
 ```
-http://192.168.50.50/admin
 User: admin
 Password: password123
 ```
