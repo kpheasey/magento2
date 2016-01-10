@@ -1,0 +1,1 @@
+/vagrant/public/lib/web/mage/backend/bootstrap.js
